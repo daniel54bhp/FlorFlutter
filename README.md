@@ -8,6 +8,6 @@ Espero te guste
 
 La descarga:
 Solo android
-- [Flor App ]([https://docs.flutter.dev/get-started/codelab])
+- [Flor App ](https://docs.flutter.dev/get-started/codelab)
 
 No olvides dejar una estrellita 
