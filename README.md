@@ -1,16 +1,13 @@
-# flores
+# Flor en Flutter
 
-A new Flutter project.
+Espero les guste este pequeño proyecto
 
-## Getting Started
+##Vienes de Tiktok?
 
-This project is a starting point for a Flutter application.
+Espero te guste
 
-A few resources to get you started if this is your first Flutter project:
+La descarga:
+Solo android
+- [Flor App ]([https://docs.flutter.dev/get-started/codelab](https://www.mediafire.com/file/3bg3uyhsrl494uz/app-release.apk/file))
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+No olvides dejar una estrellita 
