@@ -14,6 +14,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       title: 'Florecita',
       home: const FlowerPage(),
+      debugShowCheckedModeBanner: false,
     );
   }
 }
